@@ -7,6 +7,7 @@ int main()
     printf("My name is Denys Chernenko\n");
     printf("Yeah, i know, that!\n");
     printf("Yeah, i know, that!\n");
+    printf("Yeah, i know, that!\n");
 
 
     int a,b,c;
